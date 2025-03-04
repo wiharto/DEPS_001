@@ -27,7 +27,7 @@ There are 4 results created by this application:
 * Pyspark
 
 
-> **_NOTE:_**  
+> [!NOTE]  
 > Run IngestJob first, then run ExportJob. 
 > ExportJob is dependent on the success of the creation of parquet files from IngestJob.
 
