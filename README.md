@@ -1,6 +1,9 @@
-# DEPS_001: Data Ingest & Query Pipeline Using PySpark
-
 The Data Engineering Project Series (DEPS) showcases my expertise in designing and implementing data solutions that address practical challenges. Each project demonstrates proficiency with different technologies and methodologies in the data engineering field, highlighting my ability to build production-ready data pipelines. These independent projects reflect my approach to solving data problems, from initial architecture design to successful implementation. They represent my technical capabilities and problem-solving skills in data engineering.
+
+> [!NOTE]
+> The projects in DEPS are demonstration assignments originally created for technical interviews, designed to showcase technical skills and problem-solving capabilities.
+
+# DEPS_001: Data Ingest & Query Pipeline Using PySpark
 
 ## Summary
 
